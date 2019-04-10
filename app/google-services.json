@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "665168893622",
+    "firebase_url": "https://striclub-d1374.firebaseio.com",
+    "project_id": "striclub-d1374",
+    "storage_bucket": "striclub-d1374.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665168893622:android:311ca5c7c98d0895",
+        "android_client_info": {
+          "package_name": "app.striclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665168893622-nsrep4q07jkn0t9p10fpjbil04tp9t09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUE-hdFdszIwBqVm6fmkwF8IkruUYax3I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
